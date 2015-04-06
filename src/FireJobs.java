@@ -13,7 +13,7 @@ public class FireJobs {
 	/*
 	 * Replace the fileName with the desired file
 	 */
-	private static String fileName = "Files/csvFile1.csv";
+	private static String fileName = "Files/StudentSurveyFile.csv";
 
 	public static void main(String[] args) throws SQLException,
 			ClassNotFoundException, IOException {

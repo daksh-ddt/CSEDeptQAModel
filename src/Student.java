@@ -18,18 +18,28 @@ public class Student {
 	private String homeTown;
 	private String areaOfInterest;
 	private String favoriteSport;
+	private String projectGuide;
+	private String internshipCompany;
+	private String placementCompany;
 
 	public Student(List<String> tokens) {
 		ArrayList<String> tokenList = new ArrayList<String>(tokens);
-		name = tokenList.get(1);
-		rollNo = tokenList.get(2);
-		branch = tokenList.get(3);
-		year = tokenList.get(4);
-		programme = tokenList.get(5);
-		dateOfBirth = tokenList.get(6);
-		homeTown = tokenList.get(7);
-		areaOfInterest = tokenList.get(8);
-		favoriteSport = tokenList.get(9);
+		//for(String token:tokenList)
+		//	System.out.println(token);
+		//The value of token[0] contains the timestamp and should be rejected
+		//The value of token[1] contains the emailId and should be rejected 
+		name = tokenList.get(2);
+		rollNo = tokenList.get(3);
+		branch = tokenList.get(4);
+		year = tokenList.get(5);
+		programme = tokenList.get(6);
+		dateOfBirth = tokenList.get(7);
+		homeTown = tokenList.get(8);
+		areaOfInterest = tokenList.get(9);
+		favoriteSport = tokenList.get(10);
+		projectGuide = tokenList.get(11);
+		internshipCompany = tokenList.get(12);
+		placementCompany = tokenList.get(13);
 
 	}
 
@@ -107,5 +117,30 @@ public class Student {
 	public void setFavoriteSport(String favoriteSport) {
 		this.favoriteSport = favoriteSport;
 	}
+
+	public String getProjectGuide() {
+		return projectGuide;
+	}
+
+	public void setProjectGuide(String projectGuide) {
+		this.projectGuide = projectGuide;
+	}
+
+	public String getInternshipCompany() {
+		return internshipCompany;
+	}
+
+	public void setInternshipCompany(String internshipCompany) {
+		this.internshipCompany = internshipCompany;
+	}
+
+	public String getPlacementCompany() {
+		return placementCompany;
+	}
+
+	public void setPlacementCompany(String placementCompany) {
+		this.placementCompany = placementCompany;
+	}
+
 
 }

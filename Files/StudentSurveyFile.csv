@@ -1,0 +1,48 @@
+Timestamp,Username,Name,Roll Number,Branch,Year,Degree,Date of birth,HomeTown,Preferred area of research,Most preferred sport,Project Guide,Interned at ,Placed at
+4/6/2015 4:15:07,aman.agarwal.cse11@itbhu.ac.in,Aman Agarwal,11100EN021,Computer Science,4,Btech,5/30/1992,Firozabad,Cryptography,Carrom,Prof Arun Kumar Agrawal,Samsung,Amazon
+4/5/2015 23:23:38,surbhi.agrawal.cse11@itbhu.ac.in,Surbhi Agrawal,11100EN004,Computer Science,4,Btech,7/12/1992,Indore,Machine learning,Badminton,Prof Arun Kumar Agrawal,Samsung,Goldman Sachs
+4/5/2015 23:24:57,shivoam.malhotra.cse11@itbhu.ac.in,Shivoam Malhotra,11400EN002,Computer Science,4,Idd,11/5/1992,Delhi,Computer graphics,Xbox,Dr Rajeev Srivastava,MyKaarma,
+4/5/2015 23:18:16,harshit.agarwal.cse11@itbhu.ac.in,Harshit Agarwal,11100EN006,Computer Science,4,Btech,12/16/1992,Jhansi,Algorithms,Carrom,Prof Arun Kumar Agrawal,Amazon,Amazon
+4/6/2015 1:20:09,srijan.misra.cse10@itbhu.ac.in,Srijan Misra,10400EN006,Computer Science,5,Idd,2/2/1993,Lucknow,Networking,Football,Dr KK Shukla,Arista,Visa
+4/5/2015 23:50:10,gaurav.tiwari.cse11@itbhu.ac.in,Gaurav Tiwari,11100EN017,Computer Science,4,Btech,2/11/1993,Bhopal,Machine learning,Table tennis,Dr Bhaskar Biswas,Microsoft,Microsoft
+4/5/2015 23:16:28,rohit.gupta.cse12@itbhu.ac.in,Rohit Gupta,12100EN026,Computer Science,3,Btech,2/28/1993,delhi,Machine learning,Hockey,Dr Anil Nelakanti,Samsung,
+4/6/2015 10:24:05,shubham.mukherjee.cse11@itbhu.ac.in,Shubham Mukherjee,11100EN064,Computer Science,4,Btech,6/14/1993,New Delhi,Natural language processing,Football,Dr Anil Kumar Singh,Samsung,Oracle
+4/5/2015 23:34:56,mohit.mishra.cse11@itbhu.ac.in,Mohit Mishra,11100EN060,Computer Science,4,Btech,8/23/1993,Jamshedpur,Information security,Badminton,Dr KK Shukla,Research Internship,Oracle
+4/5/2015 23:58:34,sahil.thakur.cse12@itbhu.ac.in,Sahil Thakur,12100EN058,Computer Science,3,Btech,8/26/1993,Kullu,Natural language processing,Football,Dr Anil Kumar Singh,,
+4/5/2015 23:18:25,rishav.rai.cse12@itbhu.ac.in,Rishav Raj,12400EN001,Computer Science,3,Idd,9/30/1993,Ranchi,Networking,Cricket,,,
+4/6/2015 13:08:43,dewwrat.student.cse12@itbhu.ac.in,Dewwrat,12100EN037,Computer Science,3,Btech,12/6/1993,Patna,Machine learning,Cricket,Dr Bhaskar Biswas,,
+4/6/2015 7:55:14,piyush.rchaudhari.cse12@itbhu.ac.in,Piyush Chaudhari,12100EN045,Computer Science,3,Btech,12/11/1993,Jalgaon,Machine vision,Cricket,Dr SK Singh,Samsung,
+4/6/2015 0:46:42,shalini.pandey.cse11@itbhu.ac.in,Shalini Pandey,11100EN016,Computer Science,4,Btech,1/1/1994,Patna,Data structures,Football,Dr KK Shukla,Amazon,Amazon
+4/5/2015 23:25:13,shubham.soni.cse12@itbhu.ac.in,Shubham Soni,12100EN055,Computer Science,3,Btech,3/7/1994,Agra,Networking,Cricket,Dr SK Singh,,
+4/6/2015 0:07:55,rajat.raj.cse11@itbhu.ac.in,Rajat Raj,11100EN044,Computer Science,4,Btech,3/7/1994,Patna,Data structures,Cricket,Dr Ravindranath Chowdary,Microsoft,Visa
+4/5/2015 23:20:34,mahesh.mishra.cse12@itbhu.ac.in,Mahesh Mishra,12100EN001,Computer Science,3,Btech,3/24/1994,Varanasi,Algorithms,Cricket,Dr KK Shukla,,
+4/6/2015 13:22:11,gargee.ray.cse12@itbhu.ac.in,Gargee Ray,12100EN063,Computer Science,3,Btech,5/13/1994,Jabalpur,Machine vision,Carrom,,,
+4/6/2015 11:36:03,vivekananda.vivek.cse12@itbhu.ac.in,Vivekanand Vivek,12100EN042,Computer Science,3,Btech,8/14/1994,Khagaria,Algorithms,Volleyball,Dr Bhaskar Biswas,,
+4/5/2015 23:41:06,vivek.garg.cse12@itbhu.ac.in,Vivek Garg,12100EN009,Computer Science,3,Btech,8/18/1994,SriGanganagar,Algorithms,Badminton,Dr Rajeev Srivastava,Amazon,
+4/5/2015 23:49:51,santosh.kchourasia.cse12@itbhu.ac.in,Santosh Kumar Chourasia,12100EN046,Computer Science,3,Btech,8/23/1994,Jamalpur,Machine learning,Cricket,Dr Anil Kumar Singh,,
+4/5/2015 23:41:51,neelam.rathor.cse12@itbhu.ac.in,Neelam Rathor,12100EN054,Computer Science,3,Btech,9/20/1994,Jodhpur,Natural language processing,Basketball,,,
+4/6/2015 1:29:34,mayank.agrawal.cse12@itbhu.ac.in,Mayank Agrawal,12100EN022,Computer Science,3,Btech,10/3/1994,Gwalior,Machine learning,Cricket,Dr Rajeev Srivastava,,
+4/6/2015 1:11:32,prakhar.singh.cse12@itbhu.ac.in,Prakhar Singh,12100EN057,Computer Science,3,Btech,10/18/1994,Kanpur,Data structures,Cricket,Dr SK Singh,,
+4/6/2015 10:36:44,vishal.agarwal.civ13@itbhu.ac.in,Vishal Agarwal,13074015,Computer Science,2,Idd,10/19/1994,Jamshedpur,Algorithms,Badminton,Dr KK Shukla,,
+4/5/2015 23:29:00,vaibhav.gupta.cse13@itbhu.ac.in,Vaibhav Gupta,13075054,Computer Science,2,Btech,1/13/1995,Gurgaon,Cryptography,Cricket,Dr Ravi Shankar Singh,,
+4/5/2015 23:45:26,prabhat.mishra.cse13@itbhu.ac.in,Prabhat Mishra,13075035,Computer Science,2,Btech,2/7/1995,Varanasi,Algorithms,Basketball,Dr Bhaskar Biswas,,
+4/5/2015 23:34:23,kartik.manchanda.cse13@itbhu.ac.in,Kartik Manchanda,13074005,Computer Science,2,Idd,2/12/1995,Delhi,Algorithms,Football,Dr Anil Kumar Singh,,
+4/6/2015 1:32:57,pallav.mittal.cse13@itbhu.ac.in,Pallav Mittal,13075034,Computer Science,2,Btech,6/13/1995,New Delhi,Networking,Cricket,Dr Bhaskar Biswas,,
+4/6/2015 1:07:44,vaibhav.aggarwal.cse13@itbhu.ac.in,Vaibhav Aggarwal,13075053,Computer Science,2,Btech,7/26/1995,Delhi,Machine learning,Table tennis,Dr Ravi Shankar Singh,,
+4/6/2015 11:56:00,himanshu.agarwal.cse14@itbhu.ac.in,Himanshu Agarwal,14075031,Computer Science,1,Btech,7/29/1995,Jaipur,Algorithms,Cricket,Dr Anil Nelakanti,,
+4/6/2015 6:12:30,ribhav.soni.cse13@itbhu.ac.in,Ribhav Soni,13074009,Computer Science,2,Idd,8/4/1995,Ajmer,Machine learning,Football,Dr Anil Nelakanti,,
+4/6/2015 13:28:39,mayank.panchal.cse14@itbhu.ac.in,Mayank Panchal,14075034,Computer Science,1,Btech,10/2/1995,Indore,Game theory,Poker,,,
+4/6/2015 0:12:36,virat.bansal.cse14@itbhu.ac.in,Virat Bansal,14075058,Computer Science,1,Btech,11/10/1995,Sunam(Punjab),Algorithms,Table tennis,,,
+4/6/2015 10:36:43,anant.dadu.cse14@itbhu.ac.in,Anant Dadu,14075006,Computer Science,1,Btech,11/20/1995,ghaziabad,Algorithms,Badminton,,,
+4/6/2015 0:37:32,kundan.kumar.cse13@itbhu.ac.in,Kundan Kumar,13075027,Computer Science,2,Btech,2/21/1996,Patna,Machine learning,Cricket,Dr Rajeev Srivastava,Others,
+4/5/2015 23:26:24,bandaru.sandeep.cse13@itbhu.ac.in,Sandeep Bandaru,13075013,Computer Science,2,Btech,3/31/1996,Visakhapatnam,Parallel computing,Volleyball,Dr AK Tripathi,,
+4/5/2015 23:28:25,siddhant.jalan.cse14@itbhu.ac.in,Siddhant Jalan,14075049,Computer Science,1,Btech,4/14/1996,Mumbai,Information security,Xbox,,,
+4/6/2015 11:46:45,umang.goel.cse13@itbhu.ac.in,Umang Goel,13075061,Computer Science,2,Btech,6/28/1996,Hathras,Algorithms,Badminton,Dr Ravindranath Chowdary,,
+4/5/2015 23:16:21,skumar.golu.cse13@itbhu.ac.in,Siddhartha Kumar Golu,13074012,Computer Science,2,Idd,8/5/1996,Purnea,Algorithms,Volleyball,,,
+4/6/2015 12:06:37,deepak.yadav.cse14@itbhu.ac.in,Deepak Yadav,14075020,Computer Science,1,Btech,8/13/1996,New Delhi,Software engineering,Cricket,Dr Anil Nelakanti,,
+4/6/2015 1:18:32,avijit.thawani.cse14@itbhu.ac.in,Avijit Thawani,14074004,Computer Science,1,Idd,9/28/1996,Lucknow,Computer graphics,Poker,Dr Anil Nelakanti,,
+4/5/2015 23:43:24,divyam.goyal.cse14@itbhu.ac.in,Divyam Goyal,14075024,Computer Science,1,Btech,10/3/1996,Jaipur,Algorithms,Cricket,,,
+4/6/2015 11:28:13,utkarsh.pathak.cse14@itbhu.ac.in,Utkarsh Pathak,14075056,Computer Science,1,Btech,7/1/1997,Agra,Information security,Table tennis,,,
+4/6/2015 10:34:38,shubham.gupta.cse11@itbhu.ac.in,Shubham Gupta,11400EN001,Computer Science,4,Idd,4/19/2015,Lucknow,Machine vision,Cricket,Dr Rajeev Srivastava,MyKaarma,
+4/6/2015 14:50:11,akshita.agarwal.cse13@itbhu.ac.in,Akshita Agarwal,13075060,Computer Science,2,Btech,1/3/1996,Kanpur,Algorithms,Basketball,Dr Ravindranath Chowdary,,
+4/6/2015 15:18:12,gourav.mittal.cse12@itbhu.ac.in,Gourav Mittal,12100EN030,Computer Science,3,Btech,5/30/1994,Moga,Machine learning,Cricket,Dr Anil Nelakanti,Samsung,

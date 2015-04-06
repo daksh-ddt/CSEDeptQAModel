@@ -39,8 +39,26 @@ public class GetCSVFileContents {
 	}
 
 	private List<String> getStringTokens(String line) {
+		
+		//modify the line here
 		StringTokenizer st = new StringTokenizer(line, DELIMITER);
 		List<String> tokensList = getTokensFromTokenizer(st);
+		/*
+		 * This is the backup code in case the upper hack does not work 
+		 */
+		//TODO comment our the below code
+		if(line.charAt(line.length()-1)==',' && line.charAt(line.length()-2)==',' && line.charAt(line.length()-2)==','){
+			tokensList.add("NULL");
+			tokensList.add("NULL");
+			tokensList.add("NULL");
+		}
+		else if(line.charAt(line.length()-1)==',' && line.charAt(line.length()-2)==','){
+			tokensList.add("NULL");
+			tokensList.add("NULL");
+		}
+		else if(line.charAt(line.length()-1)==',' && line.charAt(line.length()-2)!=','){
+			tokensList.add("NULL");
+		}
 		return tokensList;
 	}
 

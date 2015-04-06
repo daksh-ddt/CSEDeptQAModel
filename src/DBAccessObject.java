@@ -46,8 +46,11 @@ public class DBAccessObject {
 		query.append(student.getDateOfBirth() + " , ");
 		query.append(student.getHomeTown() + " , ");
 		query.append(student.getAreaOfInterest() + " , ");
-		query.append(student.getFavoriteSport() + " ) ");
-
+		query.append(student.getFavoriteSport() + " , ");
+		query.append(student.getProjectGuide() + " , ");
+		query.append(student.getInternshipCompany() + " , ");
+		query.append(student.getPlacementCompany() + " ) ");
+		
 		String sqlQuery = query.toString();
 		return sqlQuery;
 	}
